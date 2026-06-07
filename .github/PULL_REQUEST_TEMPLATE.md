@@ -1,10 +1,21 @@
 ## Summary
-## Why
+
+<!-- What does this PR do? Why? -->
+
 ## Changes
-## How to verify
-## Risk
+
+- 
+- 
+- 
+
+## Test plan
+
+- [ ] 
+- [ ] 
+
 ## Checklist
-- [ ] Self-reviewed
-- [ ] Tests
-- [ ] Docs
-- [ ] No secrets
+
+- [ ] Tests pass
+- [ ] Lint pass
+- [ ] No secrets in diff
+- [ ] Docs updated (if user-facing)
